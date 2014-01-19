@@ -13,6 +13,8 @@ sub-tile 1: Understanding You
 	defining your ideal industry
 	defining your ideal company
 
+"Target your search by role, location, salary, company, or one of our other options. Expand your options and create multiple search profiles across various roles and industries."
+
 Sub-tile 2: Your Career Agent at Work
 	We take over on this step, submitting your resume and hunting down leads to get you pertinent interviews to your needs.
 	We will provide you with target industry information, as well as interact with you on a simple yes/no interface to determine your interest in positions. 
