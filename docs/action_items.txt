@@ -1,11 +1,10 @@
 ActionItems:
 
-1. Cal sucks donkey dicks
+Cal-
+1. structure home page
+2. set up FAQ page
+3. Fill in content 
 
-1. FAQ
-2. Why choose us
-3. How we work
-4. The process
-5. Prices
-6. Testimonials
-7. Purchase page
+Sean- 
+1. Fill in content
+
