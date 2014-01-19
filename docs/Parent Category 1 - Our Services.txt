@@ -1,4 +1,21 @@
 Tile 1:  How are we going to benefit you in the employment market?
-Our client is looking for positions in the employment market, ranging from broad to very specific niches. The hunt for a job can be stressful, overwhelming and tedious – we aim to act as a partner to our customers, assisting them through the process of finding the right job.
+You are looking for positions in the employment market, but not just any job will do; you want and deserve the right job. The hunt for a job can be stressful, overwhelming and tedious – we aim to act as a partner to our customers, assisting them through the process of finding the right poaition.
 
 We want to provide an affordable, simple process to help you find the right position. Your succes is paramount to us. As your employment partner, we will do everything we can to ensure your success.
+
+Tile 2: Steps to success
+
+We use a tested and results driven model to secure you a job. we have broken it down into 3 key stages.
+
+sub-tile 1: Understanding You
+	defining your needs
+	defining your skill set
+	defining your ideal industry
+	defining your ideal company
+
+Sub-tile 2: Your Career Agent at Work
+	We take over on this step, submitting your resume and hunting down leads to get you pertinent interviews to your needs.
+	We will provide you with target industry information, as well as interact with you on a simple yes/no interface to determine your interest in positions. 
+
+Sub-tile 3: Results
+	We will find you the right position for your needs. Based on the package that you purchase, we will bring X, X or X interviews to your door step, along with detailed profiles on the position, company and industry. we will do everything that we can to adequately prepare you for your interview - from here it is up to you!
