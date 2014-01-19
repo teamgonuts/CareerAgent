@@ -1,0 +1,16 @@
+Home page -
+
+Sliding Tiles across top
+
+Title Block: Career Agent -- Your remote partner for finding the right job at the right company.
+
+Looking for a job can be a stressful and difficult endeavor. That is why we created Career Agent - No one should have to do this alone. 
+
+We will be your partner in finding the right career for you. Your success is paramount to us, and we strive for results. This does not mean providing you with a list of career opportunities, but rather providing you with fully integrated end to end services; from finding the right industry, to providing detailed background information for an interview, we want to help you get the job of your dreams.
+
+Tiles:
+
+Tile One: About Us
+
+Tile two: Our Services
+
