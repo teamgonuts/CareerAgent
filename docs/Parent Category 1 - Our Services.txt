@@ -19,3 +19,5 @@ Sub-tile 2: Your Career Agent at Work
 
 Sub-tile 3: Results
 	We will find you the right position for your needs. Based on the package that you purchase, we will bring X, X or X interviews to your door step, along with detailed profiles on the position, company and industry. we will do everything that we can to adequately prepare you for your interview - from here it is up to you!
+
+Title Block: Packages and Pricing
