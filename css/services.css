@@ -124,6 +124,7 @@
 #process .description .text.active {
 	display: block;
 }
+
 #process .description h4{
 	font-size: 32px;
 	line-height: 35px;
@@ -199,6 +200,8 @@
 		margin-left: -75px;
 		margin-top: -54px;
 	}
+	
+	
 }
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {	
