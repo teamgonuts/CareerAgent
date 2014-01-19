@@ -84,7 +84,7 @@
 	color: #98989A;
 	font-style: italic;
 	font-style: 16px;
-	margin-bottom: 18px;
+	margin-bottom: 5px;
 }
 #team .people .bio_box .info a {
 	margin-right: 10px;
@@ -202,6 +202,13 @@
 #process .areas .circle:hover,
 #process .areas .circle.active {
 	background: rgba(17, 137, 217, 1);
+}
+
+.info p{
+	width: 217px;
+}
+.quote{
+	color: #98989A;
 }
 
 /* Responsive
