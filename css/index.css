@@ -121,15 +121,15 @@
 .slide#tour .info {
     position: absolute;
     top: 40%;
-	right: 0px;
+	right: 4%;
     width: 35%;
 	text-align: center;
 }
 .slide#tour .info h2 {
     color: #fff;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: normal;
-    text-shadow: 1px 1px 1px #3b3262;
+    text-shadow: 2px 2px 2px #3b3262;
     line-height: 57px;
 }
 .slide#tour .info a {
