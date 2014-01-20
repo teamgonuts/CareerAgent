@@ -120,10 +120,10 @@
 /* Slide 3 */
 .slide#tour .info {
     position: absolute;
-    top: 40%;
-	right: 4%;
+    top: 30%;
+	left: 10%;
     width: 35%;
-	text-align: center;
+	
 }
 .slide#tour .info h2 {
     color: #fff;
