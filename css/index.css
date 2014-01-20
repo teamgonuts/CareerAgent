@@ -89,7 +89,7 @@
 .slide#showcasing .info {
     position: absolute;
     top: 50%;
-    left: 13%;
+    right: 9%;
     width: 30%;
     display: none;
     z-index: 10;
@@ -150,9 +150,9 @@
 /* Slide 4 */
 .slide#responsive .info {
     position: absolute;
-    top: 170px;
-    right: 9%;
-    width: 25%;
+	top: 50%;
+    left: 13%;
+    width: 30%;
 }
 .slide#responsive .info h2 {
     color: #fff;
