@@ -64,16 +64,18 @@
 }
 #portfolio #gallery_container .photo .mask h3 {
 	color: #fff;
-	font-size: 22px;
+	font-size: 16px;
 	position: relative;
-	top: 39%;
+	top: 5px;
+	padding:0;
+	line-height:15px;
 }
 #portfolio #gallery_container .photo .mask small {
 	color: rgb(240, 240, 240);
 	font-size: 15px;
 	font-style: italic;
 	position: relative;
-	top: 35%;
+	padding-top: 15px;
 	display: block;
 }
 #portfolio #gallery_container .photo .mask .more {
