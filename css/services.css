@@ -97,6 +97,10 @@
 	font-size: 20px;
 	margin: 5px 0 10px 0;
 }
+#service_2 .description_wrapper b{
+	font-size: 23px;
+	margin: 5px 0 10px 0;
+}
 #service_2 .description_wrapper p{
 	font-size: 14px;
 	line-height: 24px;
