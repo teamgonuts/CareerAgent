@@ -7,7 +7,7 @@ Will my data be kept confidential and secure?
 We hold the security and privacy of our clients in the utmost regard. We will protect your information and data, and will only use the information we need for our services.
 
 Q: I only want to apply to jobs I submit to you. Is this possible?
-A: Yes, you can provide CareerAgent with postitions and companies that you would like for us to target. These will count toward your application limit.
+A: Yes, you can provide CareerAgent with postitions and companies that you would like for us to target. These will count toward your application limit. You can even add jobs to your dashboard that you have applied for!
 Q: Will CareerAgent keep me informed with information on my results and information?
 A: Your information will be available through your CareerAgent Portal. This will include ypur target industry demographics, your search profile, Applied-To listings, and stages of completion.
 Q: Can this be “hands-off”? Will you search for and apply for jobs for me?
